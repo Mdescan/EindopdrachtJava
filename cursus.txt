@@ -1,0 +1,3 @@
+// cursusgegevens
+
+[{cursusnaam:"houtsoorten herkennen",duurtijd:"4 weken", prijs:259},{cursusnaam:"planken zagen",duurtijd:"4 dagen", prijs:138},{cursusnaam:"parketvloer leggen",duurtijd:"2 dagen", prijs:57},{cursusnaam:"hout beitsen",duurtijd:"4 uren", prijs:21},{cursusnaam:"houtbewerking",duurtijd:"2 weken", prijs:204}]

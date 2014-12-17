@@ -1,0 +1,3 @@
+// houtsoorten
+
+[["bangkirai","stuks"],["beukenhout","stuks"],["dennenhout","stuks"],["eikenhout","stuks"],["kastanjehout","stuks"],["lindehout","stuks"],["notenhout","stuks"],["rubberhout","stuks"],["cederhout","kg"]]
