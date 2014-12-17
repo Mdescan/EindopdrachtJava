@@ -20,7 +20,10 @@ window.onload = function(){
     addHoutsoorten();
     
     var frmUser = document.frmUserform;
-    
+    var bangkirai = document.frmVlucht.chk_bangkirai;
+    console.log(bangkirai);
+    //adding an eventes
+    addeventhoutsoort();
     
     //console.log(frmUser);
     
@@ -105,3 +108,12 @@ function addHoutsoorten(){
 //function changestate(waarde){
 //    console.log("geen idee")
 //}
+
+function addeventhoutsoort(){
+    for(i=0;i<houtsoorten.length;i++){
+        var houtsoort = houtsoorten[i];
+        var einputcheckbox = document.getElementById("chk_"+houtsoort[0]);
+        einputcheckbox.o = "changestate(i);"
+        console.log(einputcheckbox);
+    } 
+}
